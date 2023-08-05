@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as _,p as c,a as s,b as a}from"./index-4b4db7d8.js";const d={},n=e=>(c("data-v-2067d5e3"),e=e(),s(),e),p=n(()=>a("h1",null,"CRUD Application Using Vue",-1)),i=[p];function r(e,l){return t(),_("div",null,i)}const f=o(d,[["render",r],["__scopeId","data-v-2067d5e3"]]);export{f as default};
